@@ -1,14 +1,3 @@
-# 1PAY.network - Crypto Payment SDK
-
-Website: [1pay.network](https://1pay.network)
-
-Documents: [1pay.network/documents](https://1pay.network/documents)
-
-Full example of 1PAY.network integration for Android app
-
-> Focus on file /Demo1Pay/PaymentWebView.swift
-
-```swift
 import Foundation
 import SwiftUI
 import WebKit
@@ -129,4 +118,3 @@ struct PaymentWebView: UIViewRepresentable {
         return copy
     }
 }
-```
