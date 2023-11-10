@@ -4,7 +4,7 @@ Website: [1pay.network](https://1pay.network)
 
 Documents: [1pay.network/documents](https://1pay.network/documents)
 
-Full example of 1PAY.network integration for Android app
+Full example of 1PAY.network integration for iOS, MacOS app using Swift
 
 > Focus on file /Demo1Pay/PaymentWebView.swift
 
